@@ -6,3 +6,4 @@ From today's class I have learnt how to do illustration.
 In this class I have learnt how to design logo and how to give colour to it.
 I have learnt how to draw logo page etc
 Today I have learnt how to design login page and sign up page in figma app.
+I have learnt operations in figma app.
