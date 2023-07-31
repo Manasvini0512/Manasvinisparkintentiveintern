@@ -7,3 +7,4 @@ In this class I have learnt how to design logo and how to give colour to it.
 I have learnt how to draw logo page etc
 Today I have learnt how to design login page and sign up page in figma app.
 I have learnt operations in figma app.
+In this class I have learnt how to make run in figma. And learnt to draw gmail ui/ux
