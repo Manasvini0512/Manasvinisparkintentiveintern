@@ -10,3 +10,4 @@ I have learnt operations in figma app.
 In this class I have learnt how to make run in figma. And learnt to draw gmail ui/ux
 This class I have learnt allingment in figma
 Today's class I have learnt how to design new ideas for apps.
+Today's class I have learnt editing in figma.
